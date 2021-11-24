@@ -1,15 +1,12 @@
 ## HOLD ITEM LIST
-||||
-| --- | --- | --- |
-| A/C Type: F/A-18C | A/C Serial No: 165407 | Release Date: 2018-06-01 |
 
-|Name|Date|
-| --- | --- |
-| HILOK | 2021-11-24 |
+| A/C Type | A/C Serial No | Release Date | Company |
+| --- | --- | --- | --- |
+| F/A-18C | 165407 | 2018-06-01 | ED |
 
-| A/C Type | A/C Serial No | Release Date ||| Name | Date |
-| --- | --- | --- | --- | --- |--- |--- |
-| F/A-18C | 165407 | 2018-06-01 ||| HILOK | 2021-11-24 |
+||||||
+| --- | --- | --- |--- | --- |
+| Document created by: HILOK | Release Date: 2021-12-01 || Last edited by: xxx | Date: xxxx-xx-xx |
 
 
 | **Flight Control System** | **unrestricted** ||||
