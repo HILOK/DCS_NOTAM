@@ -1,7 +1,7 @@
-# DCS_HIL
-DCS World Hold Item List
 
-A list of specific work orders that are deferred because a required part, piece of equipment, or system is missing or inoperable although a limitation might be associated with the HIL record.
+## DCS World Hold Item List
+
+Hold Item List: A list of specific work orders that are deferred because a required part, piece of equipment, or system is missing or inoperable although a limitation might be associated with the HIL record.
 
 **why?**
 because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time.
