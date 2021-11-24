@@ -22,8 +22,15 @@ Reference: official (game) manual or chuck's guides
 **How could this be done?**
 obviously this can only be achieved as a group effort. 
 
-**Formatting Rules**
+**Formatting Rules:**
+main categories are always listed and labeled either/or
+| **unrestricted** |**`RESTRICTED`**|
+| --- | --- |
 
+sub-category items are only listed, if restricted/inoperative and labeled as follows
+|**`RESTRICTED`**|**`INOP`**|
+|--- | --- |
 
-| **Category** | **unrestricted** |**`RESTRICTED`**|**`INOP`**|
-| --- | --- | --- | --- |
+except weapon system, where all items are listed at all times and labeled accordingly
+| **unrestricted** |**`RESTRICTED`**|**`INOP`**|
+| --- | --- | --- |
