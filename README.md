@@ -21,4 +21,9 @@ Reference: official (game) manual or chuck's guides
 
 **How could this be done?**
 obviously this can only be achieved as a group effort. 
-github?
+
+**Formatting Rules**
+
+
+| **Category** | **unrestricted** |**`RESTRICTED`**|**`INOP`**|
+| --- | --- | --- | --- |
