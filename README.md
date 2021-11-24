@@ -14,12 +14,12 @@
 
 | **Flight Control System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | Example | **`INOP`** | very very long remark with even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
 
 | **Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | Take-Off | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
@@ -31,27 +31,27 @@
 
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Communication** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Targeting System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Weapon System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *System* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | Gun | --- | --- | --- | --- |
 | AIM-7F | --- | --- | --- | --- |
 | AIM-7M | --- | --- | --- | --- |
@@ -71,10 +71,10 @@
 | AGM-154A | --- | --- | --- | --- |
 | AGM-154C | --- | --- | --- | --- |
 | BDU-33 | --- | --- | --- | --- |
+| CBU-99 | --- | --- | --- | --- |
 | GBU-12 | --- | --- | --- | --- |
 | GBU-16 | --- | --- | --- | --- |
 | GBU-10 | --- | --- | --- | --- |
-| CBU-99 | --- | --- | --- | --- |
 | GBU-38 | --- | --- | --- | --- |
 | GBU-32 | --- | --- | --- | --- |
 | GBU-31 | --- | --- | --- | --- |
