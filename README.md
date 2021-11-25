@@ -9,7 +9,7 @@
 | Document created by: HILOK | Release Date: 2021-12-01 || Last edited by: xxx | Date: xxxx-xx-xx |
 
 
-| **Flight Control System** | **unrestricted** ||||
+| **Flight Control System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | Example | **`INOP`** | very very long remark with even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
@@ -46,7 +46,7 @@
 | *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
-| **Weapon System** | **unrestricted** ||||
+| **Weapon System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
 | Gun | --- | --- | --- | --- |
