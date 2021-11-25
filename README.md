@@ -5,20 +5,20 @@ Hold Item List: A list of specific work orders that are deferred because a requi
 Put in simple terms: DCS_HIL lets you check current status/airworthyness of your DCS aircraft before you hop in or start planning your next mission. It's the way it's done in real life.
 
 **Why?**
-because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time.
+because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trail & error).
 
 **Is it realistic?**
 in some way even "bugs" are. real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight.
 
 **How is this different from a bug list?**
-a bug list features all things that remain to be corrected, f.ex. graphical glitches/missing textures, and things that are not in line with the real counterpart, whether or not those things are impeding functionality. Also the HIL presents the relevant defects more systematically than the bugs sections in ED's forums.
+a bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that are not in line with the real counterpart, whether or not those things are impeding functionality. Also the HIL presents relevant defects more systematically than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
-only bugs or essential features completely missing that would prevent a specific task to be performed. also a workaround, if available.
-Reference: official game manual or chuck's guides (i think there is no point in browsing through real life docs, and listing everything that's missing in the game).
+only bugs that would prevent a specific task to be performed as expected, or features that are completely broken/missing. Also a workaround, if available.
+**Reference: official game manual or Chuck's guides** (i think there is no point in browsing through real life docs, and listing everything that's missing in the game).
 
 **How could this be done?**
-obviously this can only be achieved as a group effort. 
+obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
 ### Formatting Rules ###
 main categories (Flight Control System, Weapon System, etc.) are always listed and labeled either/or
@@ -30,8 +30,8 @@ sub-category items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (
 |--- | --- |
 
 Sorting: 
-- categories by priority
-- items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically (this is to allow to determine )
+- categories by priority, see template below
+- items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically
 
 ### Template ###
 use this as example or to copy/paste items and labels into the HIL
@@ -39,7 +39,7 @@ use this as example or to copy/paste items and labels into the HIL
 | **Flight Control System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| Example | **`INOP`** | very very long remark with even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
+| Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
 
 | **Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
