@@ -10,37 +10,37 @@
 
 | **Flight Control System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Communication** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Targeting System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Weapon System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 
