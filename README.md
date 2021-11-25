@@ -15,22 +15,24 @@ a bug list features all things that remain to be corrected, f.ex. graphical glit
 
 **What should go into the HIL?**
 only bugs or essential features completely missing that would prevent a specific task to be performed. also a workaround, if available.
-Reference: official (game) manual or chuck's guides
--> list of selected items: systems affecting flight control, performance, navigation, range (ext tanks, AAR), cold weather/night, communication, defensive, targeting, weapons (each)
--> 3 categories: unrestricted, restricted, not available
+Reference: official game manual or chuck's guides (i think there is no point in browsing through real life docs, and listing everything that's missing in the game)
 
 **How could this be done?**
 obviously this can only be achieved as a group effort. 
 
-**Formatting Rules:**
-main categories are always listed and labeled either/or
+### Formatting Rules ###
+main categories (Flight Control System, Weapon System, etc.) are always listed and labeled either/or
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
 
-sub-category items are only listed, if restricted/inoperative and labeled as follows
+sub-category items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (workaround available) or inoperative (completely unusable or missing feature), and labeled as follows
 |**`RESTRICTED`**|**`INOP`**|
 |--- | --- |
 
-except weapon system, where all items are listed at all times and labeled accordingly
-| **unrestricted** |**`RESTRICTED`**|**`INOP`**|
-| --- | --- | --- |
+sorting: 
+- categories by priority:
+- items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically (this is to allow to determine )
+
+### Template ###
+use this to copy/paste items and labels into the HIL
+
