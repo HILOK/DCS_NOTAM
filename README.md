@@ -8,14 +8,14 @@ Put in simple terms: DCS_HIL lets you check current status/airworthyness of your
 because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time.
 
 **Is it realistic?**
-in some way even "bugs" are. RL aircraft often have small defects that dont require immediate grounding. Pilots & maintenance crew use the manufacturer's documentation to assess, if and under which circumstances an aircraft is airworthy, before flight.
+in some way even "bugs" are. real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight.
 
 **How is this different from a bug list?**
-a bug list features all things that remain to be corrected, f.ex. graphical glitches/missing textures, and things that are not in line with the real counterpart, whether or not those things are impeding functionality.
+a bug list features all things that remain to be corrected, f.ex. graphical glitches/missing textures, and things that are not in line with the real counterpart, whether or not those things are impeding functionality. Also the HIL presents the relevant defects more systematically than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
 only bugs or essential features completely missing that would prevent a specific task to be performed. also a workaround, if available.
-Reference: official game manual or chuck's guides (i think there is no point in browsing through real life docs, and listing everything that's missing in the game)
+Reference: official game manual or chuck's guides (i think there is no point in browsing through real life docs, and listing everything that's missing in the game).
 
 **How could this be done?**
 obviously this can only be achieved as a group effort. 
@@ -29,8 +29,8 @@ sub-category items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (
 |**`RESTRICTED`**|**`INOP`**|
 |--- | --- |
 
-sorting: 
-- categories by priority:
+Sorting: 
+- categories by priority
 - items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically (this is to allow to determine )
 
 ### Template ###
@@ -56,12 +56,19 @@ use this to copy/paste items and labels into the HIL
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
+| ADF | --- | --- | --- | --- |
+| DME | --- | --- | --- | --- |
+| ILS | --- | --- | --- | --- |
+| TACAN | --- | --- | --- | --- |
+| Terrain Following | --- | --- | --- | --- |
+| VOR | --- | --- | --- | --- |
 
 | **Communication** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
+| Datalink | --- | --- | --- | --- |
+| VHF | --- | --- | --- | --- |
+| UHF | --- | --- | --- | --- |
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
