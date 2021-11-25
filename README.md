@@ -34,16 +34,16 @@ Sorting:
 - items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically (this is to allow to determine )
 
 ### Template ###
-use this to copy/paste items and labels into the HIL
+use this as example or to copy/paste items and labels into the HIL
 
 | **Flight Control System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | Example | **`INOP`** | very very long remark with even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
 
 | **Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | Take-Off | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ use this to copy/paste items and labels into the HIL
 
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | ADF | --- | --- | --- | --- |
 | DME | --- | --- | --- | --- |
 | ILS | --- | --- | --- | --- |
@@ -65,24 +65,24 @@ use this to copy/paste items and labels into the HIL
 
 | **Communication** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | Datalink | --- | --- | --- | --- |
 | VHF | --- | --- | --- | --- |
 | UHF | --- | --- | --- | --- |
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Targeting System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Weapon System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Remark / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | Gun | --- | --- | --- | --- |
 | AIM-7F | --- | --- | --- | --- |
 | AIM-7M | --- | --- | --- | --- |
