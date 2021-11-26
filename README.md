@@ -1,5 +1,5 @@
 
-## DCS World Hold Item List
+## DCS World - Hold Item List
 
 Hold Item List: A list of specific work orders that are deferred because a required part, piece of equipment, or system is missing or inoperable although a limitation might be associated with the HIL record.
 Put in simple terms: DCS_HIL lets you check current status/airworthyness of your DCS aircraft before you hop in or start planning your next mission. It's the way it's done in real life.
