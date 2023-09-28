@@ -36,14 +36,9 @@ Sorting:
 ### Template ###
 use this as example or to copy/paste items and labels into the HIL
 
-| **Flight Control System** | **`RESTRICTED`** ||||
+| **Mission Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
-
-| **Performance** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Take-Off | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
@@ -53,9 +48,14 @@ use this as example or to copy/paste items and labels into the HIL
 | VSTOL | --- | --- | --- | --- |
 | Carrier Operation | --- | --- | --- | --- |
 
+| **Flight Control System** | **`RESTRICTED`** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
+
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | ADF | --- | --- | --- | --- |
 | DME | --- | --- | --- | --- |
 | GPS | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ use this as example or to copy/paste items and labels into the HIL
 
 | **Communication** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Datalink | --- | --- | --- | --- |
 | FM | --- | --- | --- | --- |
 | HF | --- | --- | --- | --- |
@@ -76,17 +76,17 @@ use this as example or to copy/paste items and labels into the HIL
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Targeting System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
 | **Weapon System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Gun | --- | --- | --- | --- |
 | AIM-7F | --- | --- | --- | --- |
 | AIM-7M | --- | --- | --- | --- |
@@ -121,5 +121,10 @@ use this as example or to copy/paste items and labels into the HIL
 | Mk. 83 | --- | --- | --- | --- |
 | Mk. 84 | --- | --- | --- | --- |
 | Mk. 151 | --- | --- | --- | --- |
+
+| **Equipment** | **unrestricted** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| --- | --- | --- | --- | --- |
 
 - EOF
