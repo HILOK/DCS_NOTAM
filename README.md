@@ -48,11 +48,11 @@ use this as example or to copy/paste items and labels into the HIL
 
 ||||||
 | --- | --- | --- |--- | --- |
-| Document created by: xxx | Release Date: yyyy-mm-dd || Last edited by: xxx | Date: yyyy-mm-dd |
+| Document Created by: xxx | Release Date: yyyy-mm-dd || Last Edit: xxx | Date: yyyy-mm-dd |
 
 | **Mission Profile/Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Takeoff | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | VFR | --- | --- | --- | --- |
@@ -72,17 +72,17 @@ use this as example or to copy/paste items and labels into the HIL
 
 | **Flight Control System** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
 
 | **Powerplant** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | ADF | --- | --- | --- | --- |
 | DME | --- | --- | --- | --- |
 | GPS | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ use this as example or to copy/paste items and labels into the HIL
 
 | **Communication** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Datalink | --- | --- | --- | --- |
 | FM | --- | --- | --- | --- |
 | HF | --- | --- | --- | --- |
@@ -104,17 +104,17 @@ use this as example or to copy/paste items and labels into the HIL
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
 | **Targeting System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
-| **Weapon System** | **`RESTRICTED`** ||||
+| **Weapon System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Gun | --- | --- | --- | --- |
 | AIM-7F | --- | --- | --- | --- |
 | AIM-7M | --- | --- | --- | --- |
@@ -152,7 +152,7 @@ use this as example or to copy/paste items and labels into the HIL
 
 | **Equipment** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
 - EOF
