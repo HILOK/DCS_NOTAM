@@ -6,7 +6,7 @@
 
 ||||||
 | --- | --- | --- |--- | --- |
-| Document created by: HILOK | Release Date: 2021-12-01 || Last edited by: xxx | Date: xxxx-xx-xx |
+| Document Created by: HILOK | Release Date: 2021-12-01 || Last Edit: xxx | Date: xxxx-xx-xx |
 
 WIP
 
