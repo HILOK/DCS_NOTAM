@@ -8,12 +8,12 @@
 | --- | --- | --- |--- | --- |
 | Document created by: HILOK | Release Date: 2021-12-01 || Last edited by: xxx | Date: xxxx-xx-xx |
 
-| **Flight Control System** | **unrestricted** ||||
+| **Mission Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
-| **Performance** | **unrestricted** ||||
+| **Flight Control System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
@@ -43,5 +43,9 @@
 | *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | --- | --- | --- | --- | --- |
 
+| **Equipment** | **unrestricted** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
+| --- | --- | --- | --- | --- |
 
 - EOF
