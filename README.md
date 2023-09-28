@@ -56,6 +56,6 @@
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Chronometer | **`INOP`** | [F] not implemented. It is recommended that flight crews carry their own chronometer to facilitate precision navigation and TOT. | 23-09-28 | HILOK |
-| Pitot | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | 23-09-28 | HILOK |
+| Pitot Heater | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | 23-09-28 | HILOK |
 
 - EOF
