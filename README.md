@@ -8,19 +8,15 @@
 ||||||
 | --- | --- | --- |--- | --- |
 | Document created by: HILOK | Release Date: 2023-09-28 || Last edited by: HILOK | Date: 2023-09-28 |
+| --- | --- | --- |--- | --- |
 
-| **Mission Performance** | **`RESTRICTED`** ||||
+| **Mission Profile** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
-| Take-Off | --- | --- | --- | --- |
-| Navigation | --- | --- | --- | --- |
-| Landing | --- | --- | --- | --- |
-| Range | --- | --- | --- | --- |
-| Air Air Refueling | --- | --- | --- | --- |
-| Cold Weather Opertaion | --- | --- | --- | --- |
-| Night Operation | --- | --- | --- | --- |
-| VSTOL | --- | --- | --- | --- |
-| Carrier Operation | --- | --- | --- | --- |
+| VFR | **`RESTRICTED`** | Due to INOP Chronometer it is recommended that flight crews carry their own chronometer| 23-09-28 | HILOK |
+| IFR | **`RESTRICTED`** | as VFR above | 23-09-28 | HILOK |
+| TOT | **`RESTRICTED`** | as VFR above | 23-09-28 | HILOK |
+| Cold Weather Opertaion | **`RESTRICTED`** | --- | 23-09-28 | HILOK |
 
 | **Flight Control System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
@@ -60,6 +56,7 @@
 | **Equipment** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
-| Clock | Chronometer | [F] not implemented | 23-09-28 | HILOK |
+| Chronometer | **`INOP`** | [F] not implemented | 23-09-28 | HILOK |
+| Pitot | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | 23-09-28 | HILOK |
 
 - EOF
