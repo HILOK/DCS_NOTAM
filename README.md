@@ -50,13 +50,19 @@ use this as example or to copy/paste items and labels into the HIL
 | --- | --- | --- |--- | --- |
 | Document created by: xxx | Release Date: yyyy-mm-dd || Last edited by: xxx | Date: yyyy-mm-dd |
 
-| **Mission Profile** | **unrestricted** ||||
+| **Mission Profile/Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
-| Take-Off | --- | --- | --- | --- |
+| Takeoff | --- | --- | --- | --- |
+| Landing | --- | --- | --- | --- |
 | VFR | --- | --- | --- | --- |
 | IFR | --- | --- | --- | --- |
-| Landing | --- | --- | --- | --- |
+| TOT | --- | --- | --- | --- |
+| AA | --- | --- | --- | --- |
+| AG | --- | --- | --- | --- |
+| Recon | --- | --- | --- | --- |
+| Rescue | --- | --- | --- | --- |
+| Transport | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
 | Air Air Refueling | --- | --- | --- | --- |
 | Cold Weather Opertaion | --- | --- | --- | --- |
