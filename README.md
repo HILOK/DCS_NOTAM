@@ -36,6 +36,16 @@ Sorting:
 ### Template ###
 use this as example or to copy/paste items and labels into the HIL
 
+## HOLD ITEM LIST
+
+| A/C Type | A/C Serial No | Release Date | Company |
+| --- | --- | --- | --- |
+| xxx | xxx | yyyy-mm-dd | xxxx |
+
+||||||
+| --- | --- | --- |--- | --- |
+| Document created by: xxx | Release Date: yyyy-mm-dd || Last edited by: xxx | Date: yyyy-mm-dd |
+
 | **Mission Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
