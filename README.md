@@ -8,10 +8,10 @@ In simpler terms: DCS_HIL lets you check current status/airworthiness of your DC
 Because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trial & error).
 
 **Is it realistic?**
-Real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight. So in a way software bugs or broken/missing features can be considered as realistic part of the simulation. 
+Real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight. So in a way software bugs or broken/missing features could even be considered as realistic part of the simulation. 
 
 **How is this different from a bug list?**
-A bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that are not in line with the real counterpart, whether or not those things are impeding functionality. Also the HIL presents relevant defects in a more systematic form than the bugs sections in ED's forums.
+A bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that may not be in line with their real counterpart, whether or not those things are impeding basic functionality. Also the HIL presents relevant defects in a more systematic form than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
 Only items that would prevent a specific task to be performed as expected, or essential features that are completely broken/missing. Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state
