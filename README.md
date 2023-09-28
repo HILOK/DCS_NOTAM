@@ -21,20 +21,23 @@ Only items or essential features that are originally part of the module modeled,
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
 ### Formatting Rules ###
-main categories (Flight Control System, Weapon System, etc.) are always listed and labeled either/or
+categories (Flight Control System, Weapon System, etc.) are always listed and labeled either/or
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
 
-sub-category items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (workaround available) or inoperative (completely unusable or missing feature), and labeled as follows
+items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (workaround may be available) or inoperative (completely unusable or missing feature), and labeled as follows
 |**`RESTRICTED`**|**`INOP`**|
 |--- | --- |
+
+[F] indicates the feature is completely missing (although can reasonably be expected) or intended as is (although evidence indicates otherwise)
+[B] indicates the feature is technically implemented, but bugged/broken
 
 Dates:
 - use full year within header, i.e. 2022
 - use 2-digit year in subcategories, i.e. 23
 
 Sorting: 
-- categories by priority, see template below
+- categories by priority, see template below (do not change)
 - items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically
 
 ### Template ###
