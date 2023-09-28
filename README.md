@@ -50,10 +50,12 @@ use this as example or to copy/paste items and labels into the HIL
 | --- | --- | --- |--- | --- |
 | Document created by: xxx | Release Date: yyyy-mm-dd || Last edited by: xxx | Date: yyyy-mm-dd |
 
-| **Mission Performance** | **unrestricted** ||||
+| **Mission Profile** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Take-Off | --- | --- | --- | --- |
+| VFR | --- | --- | --- | --- |
+| IFR | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
 | Air Air Refueling | --- | --- | --- | --- |
@@ -66,6 +68,11 @@ use this as example or to copy/paste items and labels into the HIL
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
+
+| **Powerplant** | **unrestricted** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| --- | --- | --- | --- | --- |
 
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
