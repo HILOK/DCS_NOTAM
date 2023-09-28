@@ -8,44 +8,6 @@
 | --- | --- | --- |--- | --- |
 | Document created by: HILOK | Release Date: 2021-12-01 || Last edited by: xxx | Date: xxxx-xx-xx |
 
-| **Mission Performance** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Flight Control System** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Navigation** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Communication** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Defensive System** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Targeting System** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Weapon System** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
-
-| **Equipment** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
-| --- | --- | --- | --- | --- |
+WIP
 
 - EOF
