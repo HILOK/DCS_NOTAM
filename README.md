@@ -1,24 +1,24 @@
 
 ## DCS World - Hold Item List
 
-Hold Item List: A list of specific work orders that are deferred because a required part, piece of equipment, or system is missing or inoperable although a limitation might be associated with the HIL record.
-Put in simple terms: DCS_HIL lets you check current status/airworthyness of your DCS aircraft before you hop in or start planning your next mission. It's the way it's done in real life.
+Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record.
+In simpler terms: DCS_HIL lets you check current status/airworthyness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
 
 **Why?**
-because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trail & error).
+Because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trial & error).
 
 **Is it realistic?**
-in some way even "bugs" are. real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight.
+In a way even "bugs" are. Real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight.
 
 **How is this different from a bug list?**
-a bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that are not in line with the real counterpart, whether or not those things are impeding functionality. Also the HIL presents relevant defects more systematically than the bugs sections in ED's forums.
+A bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that are not in line with the real counterpart, whether or not those things are impeding functionality. Also the HIL presents relevant defects more systematically than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
-only bugs that would prevent a specific task to be performed as expected, or features that are completely broken/missing. Also a workaround, if available.
+Only bugs that would prevent a specific task to be performed as expected, or essential features that are completely broken/missing. Also a workaround, if available.
 **Reference: official game manual or Chuck's guides** (i think there is no point in browsing through real life docs, and listing everything that's missing in the game).
 
 **How could this be done?**
-obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
+Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
 ### Formatting Rules ###
 main categories (Flight Control System, Weapon System, etc.) are always listed and labeled either/or
@@ -58,7 +58,9 @@ use this as example or to copy/paste items and labels into the HIL
 | *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | ADF | --- | --- | --- | --- |
 | DME | --- | --- | --- | --- |
+| GPS | --- | --- | --- | --- |
 | ILS | --- | --- | --- | --- |
+| INS | --- | --- | --- | --- |
 | TACAN | --- | --- | --- | --- |
 | Terrain Following | --- | --- | --- | --- |
 | VOR | --- | --- | --- | --- |
@@ -67,8 +69,10 @@ use this as example or to copy/paste items and labels into the HIL
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround* | *Date* | *Name* |
 | Datalink | --- | --- | --- | --- |
-| VHF | --- | --- | --- | --- |
+| FM | --- | --- | --- | --- |
+| HF | --- | --- | --- | --- |
 | UHF | --- | --- | --- | --- |
+| VHF | --- | --- | --- | --- |
 
 | **Defensive System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
