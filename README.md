@@ -9,10 +9,11 @@
 | --- | --- | --- |--- | --- |
 | Document created by: HILOK | Release Date: 2023-09-28 || Last edited by: HILOK | Date: 2023-09-28 |
 
-| **Mission Performance** | **unrestricted** ||||
+| **Mission Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
 | Take-Off | --- | --- | --- | --- |
+| Navigation | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
 | Air Air Refueling | --- | --- | --- | --- |
@@ -21,10 +22,15 @@
 | VSTOL | --- | --- | --- | --- |
 | Carrier Operation | --- | --- | --- | --- |
 
-| **Flight Control System** | **`RESTRICTED`** ||||
+| **Flight Control System** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
-| Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | 2021-11-24 | HILOK |
+| --- | --- | --- | --- | --- |
+
+| **Powerplant** | **unrestricted** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Date* | *Name* |
+| --- | --- | --- | --- | --- |
 
 | **Navigation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
