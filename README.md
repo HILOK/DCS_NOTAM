@@ -14,7 +14,7 @@ Real life aircraft often have small defects that dont require immediate groundin
 A bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that may not be in line with their real counterpart, whether or not those things are impeding basic functionality. Also the HIL presents relevant defects in a more systematic form than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
-Only items that would prevent a specific task to be performed as expected, or essential features that are completely broken/missing. Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state
+Only items or essential features that are originally part of the module modeled, but are broken or completely missing (that would prevent a specific task to be performed as expected). Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state
 **Reference: official game manual or Chuck's guides** (i think there is no point in browsing through real life docs, and listing everything that's missing in the game).
 
 **How could this be done?**
@@ -28,6 +28,10 @@ main categories (Flight Control System, Weapon System, etc.) are always listed a
 sub-category items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (workaround available) or inoperative (completely unusable or missing feature), and labeled as follows
 |**`RESTRICTED`**|**`INOP`**|
 |--- | --- |
+
+Dates:
+- use full year within header, i.e. 2022
+- use 2-digit year in subcategories, i.e. 23
 
 Sorting: 
 - categories by priority, see template below
@@ -81,6 +85,7 @@ use this as example or to copy/paste items and labels into the HIL
 | Datalink | --- | --- | --- | --- |
 | FM | --- | --- | --- | --- |
 | HF | --- | --- | --- | --- |
+| IFF | --- | --- | --- | --- |
 | UHF | --- | --- | --- | --- |
 | VHF | --- | --- | --- | --- |
 
