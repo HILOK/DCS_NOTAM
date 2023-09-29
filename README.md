@@ -53,7 +53,7 @@ use this as example or to copy/paste items and labels into the HIL
 | --- | --- | --- |--- | --- |
 | Document Created by: xxx | Release Date: yyyy-mm-dd || Last Edit: xxx | Date: yyyy-mm-dd |
 
-| **Mission Profile/Performance** | **unrestricted** ||||
+| **Mission Profile / Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Takeoff | --- | --- | --- | --- |
@@ -68,22 +68,34 @@ use this as example or to copy/paste items and labels into the HIL
 | Transport | --- | --- | --- | --- |
 | Range | --- | --- | --- | --- |
 | Air Air Refueling | --- | --- | --- | --- |
-| Cold Weather Opertaion | --- | --- | --- | --- |
+| Cold Weather Operation | --- | --- | --- | --- |
 | Night Operation | --- | --- | --- | --- |
-| VSTOL | --- | --- | --- | --- |
 | Carrier Operation | --- | --- | --- | --- |
 
-| **Flight Control System** | **`RESTRICTED`** ||||
+| **Flight Control Systems** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
+| Fly by Wire System | --- | --- | --- | --- |
+| Flaps | --- | --- | --- | --- |
+| Trim | --- | --- | --- | --- |
 | Example | **`INOP`** | very very long description and even longer workaround 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 | HILOK | 2021-11-24 |
 
 | **Powerplant** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
-| --- | --- | --- | --- | --- |
+| APU | --- | --- | --- | --- |
+| Engine#4 | --- | --- | --- | --- |
 
-| **Navigation** | **unrestricted** ||||
+| **Aircraft Systems** | **unrestricted** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
+| Hydraulics | --- | --- | --- | --- |
+| Electrics | --- | --- | --- | --- |
+| Pneumatics | --- | --- | --- | --- |
+| Fuel | --- | --- | --- | --- |
+| Landing Gear | --- | --- | --- | --- |
+
+| **Avionics / Instrumentation** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | ADF | --- | --- | --- | --- |
@@ -105,57 +117,37 @@ use this as example or to copy/paste items and labels into the HIL
 | UHF | --- | --- | --- | --- |
 | VHF | --- | --- | --- | --- |
 
-| **Defensive System** | **unrestricted** ||||
+| **Defensive Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
-| **Targeting System** | **unrestricted** ||||
+| **Targeting Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
-| **Weapon System** | **unrestricted** ||||
+| **Weapon Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Gun | --- | --- | --- | --- |
 | AIM-7F | --- | --- | --- | --- |
-| AIM-7M | --- | --- | --- | --- |
-| AIM-7MH | --- | --- | --- | --- |
-| AIM-9L | --- | --- | --- | --- |
-| AIM-9M | --- | --- | --- | --- |
-| AIM-9X | --- | --- | --- | --- |
 | AIM-120C | --- | --- | --- | --- |
-| AIM-120B | --- | --- | --- | --- |
 | CAP-9M | --- | --- | --- | --- |
 | AGM-62 | --- | --- | --- | --- |
-| AGM-65E | --- | --- | --- | --- |
-| AGM-65F | --- | --- | --- | --- |
-| AGM-84D | --- | --- | --- | --- |
-| AGM-84E | --- | --- | --- | --- |
-| AGM-88C | --- | --- | --- | --- |
-| AGM-154A | --- | --- | --- | --- |
 | AGM-154C | --- | --- | --- | --- |
 | BDU-33 | --- | --- | --- | --- |
 | CBU-99 | --- | --- | --- | --- |
 | GBU-12 | --- | --- | --- | --- |
-| GBU-16 | --- | --- | --- | --- |
-| GBU-10 | --- | --- | --- | --- |
-| GBU-38 | --- | --- | --- | --- |
-| GBU-32 | --- | --- | --- | --- |
 | GBU-31 | --- | --- | --- | --- |
 | Mk. 5 | --- | --- | --- | --- |
-| Mk. 20 | --- | --- | --- | --- |
-| Mk. 71 | --- | --- | --- | --- |
-| Mk. 82 | --- | --- | --- | --- |
-| Mk. 82Y | --- | --- | --- | --- |
-| Mk. 83 | --- | --- | --- | --- |
-| Mk. 84 | --- | --- | --- | --- |
 | Mk. 151 | --- | --- | --- | --- |
 
 | **Equipment** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
-| --- | --- | --- | --- | --- |
+| De-Icing | --- | --- | --- | --- |
+| Fire Detection | --- | --- | --- | --- |
+| Position Lights | --- | --- | --- | --- |
 
 - EOF
