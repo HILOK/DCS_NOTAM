@@ -1,8 +1,7 @@
 
 ## DCS World - Hold Item List
 
-Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record.
-In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
+Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record. In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
 
 **Why?**
 Because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trial & error).
@@ -52,7 +51,7 @@ use this as example or to copy/paste items and labels into the HIL
 ||||||
 | --- | --- | --- |--- | --- |
 | Document Created by: xxx | Release Date: yyyy-mm-dd || Last Edit: xxx | Date: yyyy-mm-dd |
-
+***
 | **Mission Profile / Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
@@ -71,7 +70,7 @@ use this as example or to copy/paste items and labels into the HIL
 | Cold Weather Operation | --- | --- | --- | --- |
 | Night Operation | --- | --- | --- | --- |
 | Carrier Operation | --- | --- | --- | --- |
-
+***
 | **Flight Control Systems** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
