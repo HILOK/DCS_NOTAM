@@ -9,7 +9,7 @@
 | --- | --- | --- |--- | --- |
 | Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-09-28 |
 ***
-| **Mission Profile/Performance** | **`RESTRICTED`** ||||
+| **Mission Profile / Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | VFR | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
