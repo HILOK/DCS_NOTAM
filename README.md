@@ -1,4 +1,4 @@
-
+***
 ## HOLD ITEM LIST
 
 | A/C Type | A/C Serial No | Release Date | Company |
@@ -8,7 +8,7 @@
 ||||||
 | --- | --- | --- |--- | --- |
 | Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-09-28 |
-
+***
 | **Mission Profile/Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
@@ -16,7 +16,7 @@
 | IFR | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
 | TOT | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
 | Cold Weather Opertaion | **`RESTRICTED`** | [see Equipment] | HILOK | 23-09-28 |
-
+***
 | **Flight Control Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
@@ -62,5 +62,5 @@
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Pitot Heater | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | HILOK | 23-09-28 |
 | Search Light | **`RESTRICTED`** | [B] reported to be too weak at times [https://forum.dcs.world/topic/203342-searchlight-lack-of-powerdistance/?do=findComment&comment=5252951] | HILOK | 23-09-28 |
-
+***
 - EOF
