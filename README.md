@@ -32,7 +32,7 @@
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
-| **Avionics / Instrumentation** | **unrestricted** ||||
+| **Avionics / Instrumentation** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Chronometer | **`INOP`** | [F] not implemented. It is recommended that flight crews carry their own chronometer to facilitate precision navigation and TOT. | HILOK | 23-09-28 |
