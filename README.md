@@ -13,8 +13,8 @@ Real life aircraft often have small defects that dont require immediate groundin
 A bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that may not be in line with their real counterpart, whether or not those things are impeding basic functionality. Also the HIL presents relevant defects in a more systematic form than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
-Only items or essential features that are originally part of the module modeled, but are broken or completely missing (that would prevent a specific task to be performed as expected). Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state
-**Reference: official game manual or Chuck's guides** as a general rule. -i think there is no point in browsing through real life docs, and listing everything that's missing in the game.
+Only items or essential features that are originally part of the module modeled, but are broken or completely missing (that would prevent a specific task to be performed as expected). Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state.
+**Reference: official game manual or Chuck's guides** as a general rule. -I think there is no point in browsing through real life docs, and listing everything that's missing in the game.
 
 **How could this be done?**
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
