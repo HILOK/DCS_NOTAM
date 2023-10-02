@@ -20,7 +20,7 @@ Only items or essential features that are originally part of the module modeled,
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
 ### Formatting Rules ###
-The **MISSION PROFILE / PERFORMANCE** table is supposed to give the user a quick overview of his aircraft's current capabilities. Only applicable capabilities should be listed here, and, depending on ITEMS below, be labeled either/or
+The **MISSION PROFILE / PERFORMANCE** table is supposed to give the user a quick overview of his aircraft's current capabilities (actually inabilities). Only applicable and restricted capabilities should be listed here, and the header line be labeled accrodingly either/or
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
 
