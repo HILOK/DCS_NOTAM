@@ -14,33 +14,40 @@ A bug list features all things that remain to be corrected, f.ex. graphical issu
 
 **What should go into the HIL?**
 Only items or essential features that are originally part of the module modeled, but are broken or completely missing (that would prevent a specific task to be performed as expected). Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state
-**Reference: official game manual or Chuck's guides** (i think there is no point in browsing through real life docs, and listing everything that's missing in the game).
+**Reference: official game manual or Chuck's guides** as a general rule. -i think there is no point in browsing through real life docs, and listing everything that's missing in the game.
 
 **How could this be done?**
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
 ### Formatting Rules ###
-categories (Flight Control System, Weapon System, etc.) are always listed and labeled either/or
+The **MISSION PROFILE / PERFORMANCE** table is supposed to give the user a quick overview of his aircraft's current capabilities. Only applicable capabilities should be listed here, and, depending on ITEMS below, be labeled either/or
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
 
-items (Speedbrake, AIM-120C, etc.) are only listed, if restricted (workaround may be available) or inoperative (completely unusable or missing feature), and labeled as follows
+The **REFER TO** section should point to the concerned CATEGORY, further details be given therein.
+
+**CATEGORIES** (Flight Control System, Weapon System, etc.) are always listed, except if not applicable to the aircraft (e.g. targeting system in the Huey), and labeled according to the following rule: if at least one item is either RESTRICTED or INOP, the whole CATEGORY is labelled RESTRICTED; otherwise UNRESTRICTED
+| **unrestricted** |**`RESTRICTED`**|
+| --- | --- |
+
+**ITEMS** (Speedbrake, AIM-120C, etc.) are only listed, if restricted (workaround may be available) or inoperative (completely unusable or missing feature), and labeled as follows
 |**`RESTRICTED`**|**`INOP`**|
 |--- | --- |
 
-[F] indicates the feature is completely missing (although can reasonably be expected) or intended as is (although evidence indicates otherwise)
-[B] indicates the feature is technically implemented, but bugged/broken
+**[F]** indicates the feature is completely missing (although it could reasonably be expected) or intended as is (although evidence indicates otherwise)
 
-Dates:
+**[B]** indicates the feature is technically implemented, but bugged/broken
+
+**Dates:**
 - use full year within header, i.e. 2022
 - use 2-digit year in subcategories, i.e. 23
 
-Sorting: 
+**Sorting:**
 - categories by priority, see template below (do not change)
 - items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically
 
 ### Template ###
-use this as example or to copy/paste items and labels into the HIL
+Use this as example or template. Listed ITEMS are exemplary only, and not extensive.
 ***
 ## HOLD ITEM LIST
 
@@ -54,7 +61,7 @@ use this as example or to copy/paste items and labels into the HIL
 ***
 | **Mission Profile / Performance** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
+| *Item* | *Restriction* | *Refer to* | *Entry by* | *Date* |
 | Takeoff | --- | --- | --- | --- |
 | Landing | --- | --- | --- | --- |
 | VFR | --- | --- | --- | --- |
