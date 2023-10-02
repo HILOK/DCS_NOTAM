@@ -12,10 +12,11 @@
 | **Mission Profile / Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Refer to* | *Entry by* | *Date* |
-| VFR | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
-| IFR | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
-| TOT | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
-| Cold Weather Opertaion | **`RESTRICTED`** | [see Equipment] | HILOK | 23-09-28 |
+| VFR | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
+| IFR | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
+| TOT | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
+| Transport | **`RESTRICTED`** | Equipment | HILOK | 23-10-02 |
+| Cold Weather Opertaion | **`RESTRICTED`** | Equipment | HILOK | 23-09-28 |
 ***
 | **Flight Control Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
@@ -25,7 +26,7 @@
 | **Powerplant** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
-| Engine | **`RESTRICTED`** | [F] engine performance reported to be off charts after software update. WORKAROUND: [https://forum.dcs.world/topic/326365-can-we-go-back-to-the-old-flight-model-for-the-huey/#elControls_5224407_menu] | HILOK | 23-09-28 |
+| Engine | **`RESTRICTED`** | [F] engine (actually rotor) performance reported to be off charts after software update. WORKAROUND: [https://forum.dcs.world/topic/326365-can-we-go-back-to-the-old-flight-model-for-the-huey/#elControls_5224407_menu] | HILOK | 23-09-28 |
 
 | **Aircraft Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
@@ -41,6 +42,7 @@
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | IFF | **`INOP`** | [F] not implemented | HILOK | 23-09-28 |
+| Transponder | **`RESTRICTED`** | [B] MODE 1 code range restricted from 00 to 37 (should be 73). [https://forum.dcs.world/topic/267407-mode-1-transponder-minmax-values-swapped-around/] | HILOK | 23-10-02 |
 
 | **Defensive Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
@@ -57,5 +59,6 @@
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Pitot Heater | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | HILOK | 23-09-28 |
 | Search Light | **`RESTRICTED`** | [B] reported to be too weak at times [https://forum.dcs.world/topic/203342-searchlight-lack-of-powerdistance/?do=findComment&comment=5252951] | HILOK | 23-09-28 |
+| Cargo Sling | **`RESTRICTED`** | [B] sling cargo cannot be attached on moving ships. [https://forum.dcs.world/topic/324677-sling-load-cargo-with-ships-doesnt-work/#comment-5205654][https://forum.dcs.world/topic/259784-unable-to-slingload-cargo-from-the-carrier-if-it-is-moving/] | HILOK | 23-10-02 |
 ***
 - EOF
