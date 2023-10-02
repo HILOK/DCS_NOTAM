@@ -7,11 +7,11 @@
 
 ||||||
 | --- | --- | --- |--- | --- |
-| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-09-28 |
+| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-10-02 |
 ***
 | **Mission Profile / Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
+| *Item* | *Restriction* | *Refer to* | *Entry by* | *Date* |
 | VFR | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
 | IFR | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
 | TOT | **`RESTRICTED`** | [see Avionics / Instrumentation] | HILOK | 23-09-28 |
@@ -43,11 +43,6 @@
 | IFF | **`INOP`** | [F] not implemented | HILOK | 23-09-28 |
 
 | **Defensive Systems** | **unrestricted** ||||
-| --- | --- | --- | --- | --- |
-| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
-| --- | --- | --- | --- | --- |
-
-| **Targeting Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
