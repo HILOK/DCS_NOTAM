@@ -26,7 +26,7 @@ The **MISSION PROFILE / PERFORMANCE** table is supposed to give the user a quick
 
 The **REFER TO** section should point to the concerned CATEGORY, further details be given therein.
 
-**CATEGORIES** (Flight Control System, Weapon System, etc.) are always listed, except if not applicable to the aircraft (e.g. targeting system in the Huey), and labeled according to the following rule: if at least one item is either RESTRICTED or INOP, the whole CATEGORY is labelled RESTRICTED; otherwise UNRESTRICTED
+**CATEGORIES** (Flight Control System, Weapon System, etc.) are always listed, except if not applicable to the aircraft, and labeled according to the following rule: if at least one item is either RESTRICTED or INOP, the whole CATEGORY is labelled RESTRICTED; otherwise UNRESTRICTED
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
 
@@ -128,7 +128,7 @@ Use this as example or template. Listed ITEMS are exemplary only, and not extens
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
-| **Targeting Systems** | **unrestricted** ||||
+| **Targeting / Aiming Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
