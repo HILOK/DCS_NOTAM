@@ -49,6 +49,11 @@
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | --- | --- | --- | --- | --- |
 
+| **Targeting / Aiming Systems** | **unrestricted** ||||
+| --- | --- | --- | --- | --- |
+| *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
+| --- | --- | --- | --- | --- |
+
 | **Weapon Systems** | **unrestricted** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
