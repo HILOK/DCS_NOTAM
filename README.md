@@ -7,7 +7,7 @@
 
 ||||||
 | --- | --- | --- |--- | --- |
-| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-10-02 |
+| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-10-03 |
 ***
 | **Mission Profile / Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
@@ -37,6 +37,7 @@
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | Chronometer | **`INOP`** | [F] not implemented. It is recommended that flight crews carry their own chronometer to facilitate precision navigation and TOT. | HILOK | 23-09-28 |
+| Slip Indicator | **`RESTRICTED`** | [B] Erroneous indication at any forward speed. [https://forum.dcs.world/topic/290964-slip-indicator-broken-in-forward-flight-long-standing-issue-proof-included/] | HILOK | 23-10-03 |
 
 | **Communication** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
