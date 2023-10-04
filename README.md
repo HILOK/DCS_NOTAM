@@ -1,6 +1,8 @@
 
-## DCS World - Hold Item List
+## DCS World - NOTAMS
+.WIP.
 
+## DCS World - Hold Item Lists
 Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record. In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
 
 **Why?**
@@ -19,7 +21,7 @@ Only items or essential features that are originally part of the module modeled,
 **How could this be done?**
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
-### Formatting Rules ###
+### HIL Formatting Rules ###
 The **MISSION PROFILE / PERFORMANCE** table is supposed to give the user a quick overview of his aircraft's current capabilities (actually inabilities). Only applicable and restricted capabilities should be listed here, and the header line be labeled accrodingly either/or
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
