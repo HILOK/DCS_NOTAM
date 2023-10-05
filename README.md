@@ -1,7 +1,25 @@
 
 ## DCS World - NOTAMS
-.WIP.
 
+**How could this be done?**
+Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
+
+### NOTAM Formatting Rules ###
+#### Entries
+**1st line: ID**  
+date formatted like this \<yymmdd> followed by \'-' + \<code> + number  
+codes:
+
+number: start every day's first entry with '1', and increment every new entry of that day and theater  
+
+**2nd line: DESCRIPTION**  
+prefer concise style using appropriate abbreviations, when possible. Typically start with concerned item, followed by issue. Terminate with '.'  
+
+#### Sorting
+o theaters alphabetically  
+o airports alphabetically  
+o entries by date of entry  
+***
 ## DCS World - Hold Item Lists
 Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record. In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
 
