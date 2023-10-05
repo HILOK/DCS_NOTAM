@@ -24,6 +24,14 @@ Obviously this can only be achieved as a group effort. Github is a good starting
 date formatted like this \<yymmdd> followed by \'-' + \<code> + number  
 codes:
 
+|CA|Caucasus|
+|FL|Falklands|
+|MA|Marianas|
+|NV|Nevada|
+|PG|Persian Gulf|
+|SI|Sinai|
+|SY|Syria|
+
 number: start every day's first entry with '1', and increment every new entry of that day and theater  
 
 **2nd line: DESCRIPTION**  
