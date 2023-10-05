@@ -1,5 +1,5 @@
 
-## DCS World - NOTAMS
+## DCS World - NOTAM
 
 Notice to Airmen: A written notification issued to pilots before flight concerning the establishment, conditions or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which may be essential to personnel and systems concerned with flight operations.
 
@@ -7,7 +7,7 @@ Notice to Airmen: A written notification issued to pilots before flight concerni
 Because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trial & error).
   
 **Is it realistic?**
-Not only is the study of NOTAM part of any real life briefing, but in DCS World it may have the added value of preventing to run into odd quirks during a mission, and will make those look more like limitations that are part of the aviation world. Just as in reality.
+Not only is the study of NOTAM part of any real life briefing, but in DCS World it may have the added value of preventing one to run into odd quirks during a mission. In a way, NOTAM might even make those quirks seem like the limitations that are part of the real aviation world.
   
 **How is this different from a bug list?**
 
