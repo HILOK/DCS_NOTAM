@@ -1,7 +1,15 @@
 ***
-## DCS World - NOTAMS
+## DCS World - NOTAM
 
-#### Mariana Islands
+### Caucasus
+\===========  
+AIRPORTS  
+\===========  
+UGTB Tivlis
+230825
+RWY MARKINGS INTC A, B, C WRONG. 31L-13R INDICATED ISO 31R-13L
+
+### Mariana Islands
 
 +++
 **F10-MAP** does NOT correctly reflect aerodrome coalition. Flight crews are advised to refer to briefing information for assessment of aerodrome availability.
