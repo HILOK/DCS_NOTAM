@@ -24,6 +24,7 @@ Obviously this can only be achieved as a group effort. Github is a good starting
 date formatted like this \<yymmdd> followed by \'-' + \<code> + number  
 codes:
 
+|||
 |CA|Caucasus|
 |FL|Falklands|
 |MA|Marianas|
