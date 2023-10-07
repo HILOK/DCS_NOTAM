@@ -36,6 +36,7 @@
 | **Avionics / Instrumentation** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
+| Altimeter LHS | **`RESTRICTED`** | [B] QNH scale shows 31.00inhg between 29.99ingh and 30.00inhg. Cross-check altimeter readings in case of QNH settings between 30.00inhg and 31.00inhg. [https://forum.dcs.world/topic/334761-copilot-altimeter-qnh-scale-3100-quirk/] | HILOK | 23-10-07 |
 | Chronometer | **`INOP`** | [F] not implemented. It is recommended that flight crews carry their own chronometer to facilitate precision navigation and TOT. | HILOK | 23-09-28 |
 | Slip Indicator | **`RESTRICTED`** | [B] Erroneous indication at any forward speed. Disregard during cruise. [https://forum.dcs.world/topic/290964-slip-indicator-broken-in-forward-flight-long-standing-issue-proof-included/] | HILOK | 23-10-03 |
 
