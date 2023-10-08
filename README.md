@@ -7,13 +7,13 @@ Notice to Airmen: A written notification issued to pilots before flight concerni
 Because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trial & error).
   
 **Is it realistic?**
-Not only is the study of NOTAM part of any real life briefing, but in DCS World it may have the added value of preventing one to run into odd quirks during a mission. In a way, NOTAM might even make those quirks seem like the limitations that are part of the real aviation world.
+Not only is the study of NOTAM part of any real life briefing, but in DCS World it may have the added value of preventing one from running into odd quirks during a mission. In a way, NOTAM might even make DCS quirks look like a realistic part of the simulation.
   
 **How is this different from a bug list?**
-
+A bug list features all things that remain to be corrected, f.ex. graphical issues, omissions etc. This is not the idea of NOTAM. Also the presentation here is more systematic than ED's bugs sections.
   
-**What should go into the HIL?**
-
+**What should go into NOTAM?**
+Focus should be set on operationally relevant issues. Real world NOTAM can serve as a good example (sometimes...)
   
 **How could this be done?**
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
@@ -24,7 +24,8 @@ Obviously this can only be achieved as a group effort. Github is a good starting
 date formatted like this \<yymmdd> followed by \'-' + \<code> + number  
 codes:
 
-|||
+| | |
+|---|---|
 |CA|Caucasus|
 |FL|Falklands|
 |MA|Marianas|
