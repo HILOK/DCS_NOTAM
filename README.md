@@ -27,10 +27,10 @@ codes:
 | | |
 |---|---|
 |CA|Caucasus|
-|FL|Falklands|
 |MA|Marianas|
-|NV|Nevada|
+|NE|Nevada|
 |PG|Persian Gulf|
+|SA|South Atlantic|
 |SI|Sinai|
 |SY|Syria|
 
@@ -44,7 +44,7 @@ o theaters alphabetically
 o airports alphabetically  
 o entries by date of entry  
 ***
-## DCS World - Hold Item Lists
+## DCS World - Hold Item List
 Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record. In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
 
 **Why?**
