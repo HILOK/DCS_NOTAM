@@ -36,7 +36,72 @@ MISCELLANEOUS
 **F10-MAP** INNER NDB FRQ MISSING LAST DIGIT. DISREGARD F10-MAP. FLIGHT CREWS ARE ADVISED TO REFER TO PUBLISHED CHARTS.
 ***
 
-### Mariana Islands
+### Marianas
+\=======  
+AIRPORTS  
+\=======  
+NIL  
+  
+\===========  
+MISCELLANEOUS  
+\===========  
+NIL  
+
+***
+
+### Nevada
+\=======  
+AIRPORTS  
+\=======  
+NIL  
+  
+\===========  
+MISCELLANEOUS  
+\===========  
+NIL  
+
+***
+
+### Persian Gulf
+\=======  
+AIRPORTS  
+\=======  
+NIL  
+  
+\===========  
+MISCELLANEOUS  
+\===========  
+NIL  
+
+***
+
+### South Atlantic
+\=======  
+AIRPORTS  
+\=======  
+NIL  
+  
+\===========  
+MISCELLANEOUS  
+\===========  
+NIL  
+
+***
+
+### Sinai
+\=======  
+AIRPORTS  
+\=======  
+NIL  
+  
+\===========  
+MISCELLANEOUS  
+\===========  
+NIL  
+
+***
+
+### Syria
 \=======  
 AIRPORTS  
 \=======  
