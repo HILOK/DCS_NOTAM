@@ -3,11 +3,11 @@
 
 | A/C Type | A/C Serial No | Release Date | Company |
 | --- | --- | --- | --- |
-| UH-1H | 0-17296 | 2013-04-30 | ED / Belsimtek |
+| UH-1H | 0-17296 | 2013-04-30 | Belsimtek / ED |
 
 ||||||
 | --- | --- | --- |--- | --- |
-| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2023-10-19 |
+| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2024-10-26 |
 ***
 | **Mission Profile / Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
@@ -68,6 +68,7 @@
 | Pitot Heater | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | HILOK | 23-09-28 |
 | Search Light | **`RESTRICTED`** | [B] reported to be too weak at times [https://forum.dcs.world/topic/203342-searchlight-lack-of-powerdistance/?do=findComment&comment=5252951] | HILOK | 23-09-28 |
 | Skids | **`RESTRICTED`** | [B] friction of skids on certain ship decks reported to be insufficient. Crews are advised to expedite their startup procedures to prevent collision damage with foreign objects. [https://forum.dcs.world/topic/257568-huey-slides-forward-on-starup-from-arleigh-burke-iia-deck/] | HILOK | 23-10-19 |
+| Wipers | **`RESTRICTED`** | [B] wiper action insufficient. Outside view significantly restricted in case of precipitation | HILOK | 24-10-26 |
 
 ***
 - EOF
