@@ -81,6 +81,9 @@ The **REFER TO** section should point to the concerned CATEGORY, further details
 |**`RESTRICTED`**|**`INOP`**|
 |--- | --- |
 
+- following every new ITEM entry, the consequences on MISSION PROFILE / PERFORMANCE should be assessed, the applicable CATEGORY added to the table, and the fields *Entry by* and *Date* updated
+- same applies to header fields 'Last Edit' and 'Date'
+
 **[F]** indicates the feature is completely missing (although it could reasonably be expected) or intended as is (although evidence indicates otherwise)
 
 **[B]** indicates the feature is technically implemented, but bugged/broken
