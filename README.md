@@ -21,12 +21,15 @@ Obviously this can only be achieved as a group effort. Github is a good starting
 ### NOTAM Formatting Rules ###
 #### Entries
 **1st line: ID**  
-date formatted like this \<yymmdd> followed by \'-' + \<code> + number  
+date as \<yymmdd> followed by \'-' + \<code> + number  
 codes:
 
 | | |
 |---|---|
+|AF|Afghanistan|
 |CA|Caucasus|
+|IR|Iraq|
+|KO|Kola|
 |MA|Marianas|
 |NE|Nevada|
 |PG|Persian Gulf|
