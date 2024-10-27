@@ -21,7 +21,7 @@ Obviously this can only be achieved as a group effort. Github is a good starting
 ### NOTAM Formatting Rules ###
 #### Entries
 **1st line: ID**  
-date as \<yymmdd> followed by \'-' + \<code> + number  
+date as \<yymmdd> followed by \'-' + \<code> + number \<dd>  
 codes:
 
 | | |
@@ -37,10 +37,10 @@ codes:
 |SI|Sinai|
 |SY|Syria|
 
-number: start every day's first entry with '1', and increment every new entry of that day and theater  
+number: start every day's first entry with '01', and increment every new entry of that day and theater  
 
 **2nd line: DESCRIPTION**  
-prefer concise style using appropriate abbreviations, when possible. Typically start with concerned item, followed by issue. Terminate with '.'  
+prefer concise style using appropriate abbreviations, when possible. Typically start with concerned item, followed by issue. Apply bold highlighting to concerned item(s). Terminate with '.'  
 
 #### Sorting
 o theaters alphabetically  
@@ -48,19 +48,19 @@ o airports alphabetically
 o entries by date of entry  
 ***
 ## DCS World - Hold Item List
-Hold Item List: A list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record. In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. It's the way it's done in real life.
+Hold Item List: list of specific maintenance work orders that are deferred, because a required part, piece of equipment or system is either missing or inoperable although a limitation might be associated with the HIL record. In simpler terms: DCS_HIL lets you check current status/airworthiness of your DCS aircraft, before you hop in or start planning your next mission. That's the way it's done in real life.
 
 **Why?**
-Because in my opinion it is preferable to know your options during planning time, i.e. what works and to what extent, instead of having to find out the hard way: over the target area after 1.5 h mission time (or trial & error).
+Because in my opinion it is preferable to know your options during planning time, i.e. what works and to which extent, instead of having to find out the hard way: over the target area after 1.5 h mission time or through trial & error.
 
 **Is it realistic?**
-Real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft is airworthy, before flight. So in a way software bugs or broken/missing features could even be considered as realistic part of the simulation. 
+Real life aircraft often have small defects that dont require immediate grounding. Flight & maintenance crews use the manufacturer's documentation to assess, if and under which conditions an aircraft can be dispatched, before flight. So in a way software bugs or broken/missing features could even be considered as realistic part of the simulation. 
 
 **How is this different from a bug list?**
 A bug list features all things that remain to be corrected, f.ex. graphical issues/missing sounds, and things that may not be in line with their real counterpart, whether or not those things are impeding basic functionality. Also the HIL presents relevant defects in a more systematic form than the bugs sections in ED's forums.
 
 **What should go into the HIL?**
-Only items or essential features that are originally part of the module modeled, but are broken or completely missing (that would prevent a specific task to be performed as expected). Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state.
+Only items or essential features that are originally part of the module modeled, but are broken or completely missing, and would prevent a specific task to be performed as expected. Also a workaround, if available. The source should ideally provide a link to a discussion thread that allows easy tracking of the defect's current state.
 **Reference: official game manual or Chuck's guides** as a general rule. -I think there is no point in browsing through real life docs, and listing everything that's missing in the game.
 
 **How could this be done?**
