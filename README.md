@@ -13,7 +13,7 @@
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Refer to* | *Entry by* | *Date* |
 | VFR | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
-| IFR | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
+| IFR | **`RESTRICTED`** | Avionics / Instrumentation / Equipment| HILOK | 24-10-26 |
 | TOT | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
 | Transport | **`RESTRICTED`** | Equipment | HILOK | 23-10-02 |
 | Cold Weather Opertaion | **`RESTRICTED`** | Equipment | HILOK | 23-09-28 |
@@ -68,7 +68,7 @@
 | Pitot Heater | **`RESTRICTED`** | [B] pitot icing has been repeatedly reported to occur after about 50 min of flight in icing conditions. ASI have been reported to fail as a consequence. It is recommended to limit flight in icing conditions to max 45 min as a measure of precaution. [https://forum.dcs.world/topic/98973-pitot-heat-vs-icing-conditions/] | HILOK | 23-09-28 |
 | Search Light | **`RESTRICTED`** | [B] reported to be too weak at times [https://forum.dcs.world/topic/203342-searchlight-lack-of-powerdistance/?do=findComment&comment=5252951] | HILOK | 23-09-28 |
 | Skids | **`RESTRICTED`** | [B] friction of skids on certain ship decks reported to be insufficient. Crews are advised to expedite their startup procedures to prevent collision damage with foreign objects. [https://forum.dcs.world/topic/257568-huey-slides-forward-on-starup-from-arleigh-burke-iia-deck/] | HILOK | 23-10-19 |
-| Wipers | **`RESTRICTED`** | [B] wiper action insufficient. Outside view significantly restricted in case of precipitation | HILOK | 24-10-26 |
+| Wipers | **`RESTRICTED`** | [B] wiper action insufficient. Outside view at low speeds significantly reduced in case of precipitation | HILOK | 24-10-26 |
 
 ***
 - EOF
