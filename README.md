@@ -40,7 +40,7 @@ codes:
 number: start every day's first entry with '01', and increment every new entry of that day and theater  
 
 **2nd line: DESCRIPTION**  
-prefer concise style using appropriate abbreviations, when possible. Typically start with concerned item, followed by issue. Apply bold highlighting to concerned item(s). Terminate with '.'  
+only capital letters, prefer concise style using appropriate abbreviations, when possible. Typically start with concerned item, followed by issue. Apply bold highlighting to concerned item(s). Terminate with '.'  
 
 #### Sorting
 o theaters alphabetically  
@@ -67,7 +67,7 @@ Only items or essential features that are originally part of the module modeled,
 Obviously this can only be achieved as a group effort. Github is a good starting point, because of its accessibility, but this project could move to another platform in the future.
 
 ### HIL Formatting Rules ###
-The **MISSION PROFILE / PERFORMANCE** table is supposed to give the user a quick overview of his aircraft's current capabilities (actually inabilities). Only applicable and restricted capabilities should be listed here, and the header line be labeled accrodingly either/or
+The **MISSION PROFILE / PERFORMANCE** table is supposed to give the virtual pilot a quick overview of their aircraft's current capabilities (actually inabilities). Only applicable and restricted capabilities should be listed here, and the header line be labeled accordingly either/or
 | **unrestricted** |**`RESTRICTED`**|
 | --- | --- |
 
@@ -86,15 +86,15 @@ The **REFER TO** section should point to the concerned CATEGORY, further details
 **[B]** indicates the feature is technically implemented, but bugged/broken
 
 **Dates:**
-- use full year within header, i.e. 2022
-- use 2-digit year in subcategories, i.e. 23
+- full year within header, i.e. 2022
+- 2-digit year in subcategories, i.e. 23
 
 **Sorting:**
 - categories by priority, see template below (do not change)
 - items alphabetically; except for weapon system: air-air weapons first, alphabetically, air-ground weapons next, also alphabetically
 
 ### Template ###
-Use this as example or template. Listed ITEMS are exemplary only, and not extensive.
+Use this as example or template. Listed ITEMS are exemplary only, and not comprehensive.
 ***
 ## HOLD ITEM LIST
 
