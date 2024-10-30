@@ -7,11 +7,12 @@
 
 ||||||
 | --- | --- | --- |--- | --- |
-| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2024-10-26 |
+| Document Created by: HILOK | Release Date: 2023-09-28 || Last Edit: HILOK | Date: 2024-10-30 |
 ***
 | **Mission Profile / Performance** | **`RESTRICTED`** ||||
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Refer to* | *Entry by* | *Date* |
+| R/T | **`RESTRICTED`** | Communication | HILOK | 24-10-30 |
 | VFR | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
 | IFR | **`RESTRICTED`** | Avionics / Instrumentation / Equipment| HILOK | 24-10-26 |
 | TOT | **`RESTRICTED`** | Avionics / Instrumentation | HILOK | 23-09-28 |
@@ -44,6 +45,7 @@
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | IFF | **`INOP`** | [F] not implemented | HILOK | 23-09-28 |
+| Radios | **`RESTRICTED`** | [B] [VAICOM PRO] INTERCOM selector intermittently not functional. Reception unaffected. WORKAROUND: activate comms menu via shortcut to force selection of correct frequency band | HILOK | 24-10-30 |
 | Transponder | **`RESTRICTED`** | [B] MODE 1 code range restricted from 00 to 37 (should be 73). [https://forum.dcs.world/topic/267407-mode-1-transponder-minmax-values-swapped-around/] | HILOK | 23-10-02 |
 
 | **Defensive Systems** | **unrestricted** ||||
