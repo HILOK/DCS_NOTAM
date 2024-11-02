@@ -45,7 +45,7 @@
 | --- | --- | --- | --- | --- |
 | *Item* | *Restriction* | *Description / Workaround / Source* | *Entry by* | *Date* |
 | IFF | **`INOP`** | [F] not implemented | HILOK | 23-09-28 |
-| Radios | **`RESTRICTED`** | [B] [VAICOM PRO] INTERCOM selector intermittently not functional. Reception unaffected. WORKAROUND: activate comms menu via shortcut to force selection of correct frequency band | HILOK | 24-10-30 |
+| Radios | **`RESTRICTED`** | [B] [VAICOM PRO] INTERCOM selector intermittently not functional. Reception unaffected. WORKAROUND: bind 'Pilot's radio trigger' action in DCS controls to joystick button invoking VOICE ATTACK PTT | HILOK | 24-10-30 |
 | Transponder | **`RESTRICTED`** | [B] MODE 1 code range restricted from 00 to 37 (should be 73). [https://forum.dcs.world/topic/267407-mode-1-transponder-minmax-values-swapped-around/] | HILOK | 23-10-02 |
 
 | **Defensive Systems** | **unrestricted** ||||
